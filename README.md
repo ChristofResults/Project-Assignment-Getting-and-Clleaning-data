@@ -1,6 +1,6 @@
 # Readme Getting & Cleaning Data project assignment
 
-The project assignment was to take data from Human Activity Recognition Using Smartphones Dataset, Version 1.0 and process this data for analysis purposes
+The project assignment was to take data from Human Activity Recognition Using Smartphones Dataset, Version 1.0 and process this data for analysis purposes. The 2 resulting data are based on tidy principes. See Codebook for more information
 
 The following steps to reproduce the results:
 
@@ -10,7 +10,7 @@ The following steps to reproduce the results:
 4.  create a directory "Data" in your project's working directory to store the output from the script
 5.  copy "run_analysis.R" to project working directory
 6.  run script "run_analysis.R"
-7.  the output of this script is stored in the directory "Data" as "tidy_data_full.csv" and "tidy_data_mean_bymeasurement.csv",
+7.  the output of this script is stored in the directory "Data" as "tidy_data_full.csv" and "tidy_data_mean_bymeasurement.csv"
 8.  "result.txt" contains the result as requested by the assignment (using write.table)
 
 Session Info:
