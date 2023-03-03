@@ -1,6 +1,10 @@
 # Readme Getting & Cleaning Data project assignment
 
-The project assignment was to take data from Human Activity Recognition Using Smartphones Dataset, Version 1.0 and process this data for analysis purposes. The 2 resulting data are based on tidy principes. See Codebook for more information
+The project assignment was to take data from Human Activity Recognition Using Smartphones Dataset, Version 1.0 and process this data for analysis purposes. The 2 resulting data are based on tidy data principes.
+
+**Please note:** My interpretation was to create *narrow form data set* where each variable would be in 1 row and therefore many rows and few columns. From reading the discussions most choose for the *wide form* with many columns and less rows.
+
+See Codebook for more information
 
 The following steps to reproduce the results:
 
